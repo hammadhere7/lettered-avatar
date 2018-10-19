@@ -1,0 +1,8 @@
+{
+  "short_name": "lettered-avatar",
+  "name": "lettered-avatar",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
