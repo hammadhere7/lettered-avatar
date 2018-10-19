@@ -30,7 +30,7 @@ Specifying the name prop will generate the avatar from first letter of name as f
 
 ![Generated Avatar](img/avatar.png)  
 ```  
-<LetteredAvatar name={'Hammad'} imgSrc={'https://avatars2.githubusercontent.com/u/4178933'}/>  
+<LetteredAvatar name={'Hammad'} imgSrc={'img/user_avatar.png'}/>  
 ```  
 If imgSrc prop is passed then avatar will not be generated and original image will be shown with default options as follows:
 
