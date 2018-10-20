@@ -181,4 +181,5 @@ If imgSrc prop is passed then avatar will not be generated and original image wi
 
 ## License
 Lettered Avatar is released under MIT license
+
 MIT © [hammadhere7](https://github.com/hammadhere7)
