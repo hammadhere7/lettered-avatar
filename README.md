@@ -21,6 +21,12 @@ npm install --save lettered-avatar
 ```
 
 ## Usage  
+
+**Import package into your app**
+
+```
+import LetteredAvatar from 'lettered-avatar';
+```
   
 **Basic**
 ```  
